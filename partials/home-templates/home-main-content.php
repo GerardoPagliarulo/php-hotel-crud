@@ -1,7 +1,7 @@
-<!-- MAIN CONTENT -->
+<!-- HOME MAIN CONTENT -->
 <main class="rooms">
-        <div class="container">
-            <div class="d-flex justify-content-center">
+        <div class="container text-center">
+            <div class="d-inline-flex">
                 <table class="table">
                     <thead>
                         <tr>

@@ -1,4 +1,4 @@
-<!-- FOOTER -->
+<!-- HOME FOOTER -->
 <footer>
 </footer>
     <!-- JS -->
