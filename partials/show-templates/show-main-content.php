@@ -1,7 +1,7 @@
 <!-- SHOW MAIN CONTENT-->
 <main class="rooms">
         <div class="container">
-            <div class="d-flex justify-content-center flex-column">
+            <div class="d-flex align-items-center flex-column">
                 <div class="card">
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">
@@ -19,5 +19,6 @@
                     </ul>
                 </div>
                 <a href="./">back to home</a>
+            </div>
         </div>
 </main>
