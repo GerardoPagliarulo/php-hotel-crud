@@ -1,0 +1,12 @@
+/*************
+    COMMON
+**************/
+// DISPLAY FLEX
+// Flex Basis
+@mixin flex-b-50 {
+    flex-basis: 50%;
+}
+// GENERAL
+body {
+    font-family: sans-serif;
+}
