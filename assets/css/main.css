@@ -9988,9 +9988,12 @@ h3 {
     border-color: #dee2e6;
   }
 }
+/***********
+    VARS
+***********/
 /*************
     COMMON
 **************/
 body {
-  font-family: sans-serif;
+  background: #f3f3f3;
 }

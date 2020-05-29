@@ -1,5 +1,5 @@
 <?php
-// DB
+// Connesione DB
 include_once __DIR__ . '/../database.php';
 // Ottenere lista stanze
 $sql = "SELECT * FROM `stanze`";
