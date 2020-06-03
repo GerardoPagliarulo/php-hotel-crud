@@ -4,4 +4,12 @@
 // GENERAL
 body {
     background: $bg-color;
+    // MAIN LAYAOUT
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.app {
+    flex-grow: 1;
 }
