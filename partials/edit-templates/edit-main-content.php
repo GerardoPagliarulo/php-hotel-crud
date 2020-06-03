@@ -24,5 +24,10 @@
                 <input class="btn btn-primary" type="submit" value="Save">
             </div>
         </form>
+        <div class="text-right">
+            <a class="btn btn-primary" href="<?php echo $base_path; ?>show.php?id=<?php echo $room['id']; ?>">
+                Room Details
+            </a>
+        </div>
     </div>
 </main>

@@ -1,8 +1,11 @@
 <?php
 // Connesione DB
 include_once __DIR__ . '/../database.php';
+// Functions
+include_once __DIR__ . '/../functions/functions.php';
 // Ottenere lista stanze
-$sql = "SELECT * FROM `stanze`";
+$rooms = getAll($conn, 'stanze');
+/*$sql = "SELECT * FROM `stanze`";
 $result = $conn->query($sql);
 //var_dump($result);
 if ($result && $result->num_rows > 0) {
@@ -19,4 +22,4 @@ else {
     echo 'Query error';
 }
 // Close DB connection
-$conn->close();
+$conn->close();*/
